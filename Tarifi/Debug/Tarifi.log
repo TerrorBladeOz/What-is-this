@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\danil\source\repos\Tarifi\Source.cpp(24,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Tarifi.vcxproj -> C:\Users\danil\source\repos\Tarifi\Debug\Tarifi.exe
